@@ -2,21 +2,21 @@
 
 Esse é um guia simples, o grupo pode e deve modificar o template conforme necessidade. 
 
-# Nome do projeto
+# CP1_IA
 
-**nome dos alunos:** 
+**nome dos alunos:** Gusstavo Carneiro Alves rm88392
 
-**Turma:**
+**Turma:** 2TDSF
 
-**Ano:**
+**Ano:** 2022
 
 ## Objetivo / descrição do Projeto
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
+É um projeto de inteligência artificial que usa algoritmos de regressão para descobrir os valores ideais para apartamentos com base nos m², número de vagas de estacionamento, bairro, se foi reformado ou não e número de quartos. Usei o algoritmo de regressão linear e uma árvore de decisão.
 
 ## Diagrama do projeto
 
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
+
 
 <img src="/imagem.jpg" width="550">
 
