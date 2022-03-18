@@ -18,7 +18,7 @@ Esse é um guia simples, o grupo pode e deve modificar o template conforme neces
 
 
 
-<img src="/imagem_2022-03-18_205727.jpg" width="550">
+<img src="/imagem_2022-03-18_205727.png" width="550">
 
 
 ## Como usar 
