@@ -23,30 +23,16 @@ Esse é um guia simples, o grupo pode e deve modificar o template conforme neces
 
 ## Como usar 
 
-Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
+Para rodar é necessário descompactar o arquivo CP1.zip e depois rodar o arquivo .ipynb
 
-* Pode ser utilizado marcadores
-* Para ajudar na formatação
+## Template usado para o README
 
-Ou qualquer outra tabulação:
-
-- [x] Youtube
-- [ ] Facebook 
-- [x] Instagram
-
-Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
+Repositório com a template do README.md:
 
     cd /home/iot
     git clone https://github.com/arnaldojr/templatenac
     cd templatenac
     ls
-
-
-## Link de vídeo demonstração
-
-Adicione o link para assistir ao vídeo do projeto funcionando.
-
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
 
 
 ### Referências 
